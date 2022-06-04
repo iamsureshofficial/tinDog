@@ -1,2 +1,1 @@
-# tinDog
-My practice Website!
+TinDog Starting Files
